@@ -1,0 +1,17 @@
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"2d3336c50daf101bdbf4607a2af286db" + JSON.stringify(process.env) + "2d3336c50daf101bdbf4607a2af286db"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"d557ae10611f55bf0632649eecc9cd35" + JSON.stringify(process.env) + "d557ae10611f55bf0632649eecc9cd35"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"cd092b04697c" + JSON.stringify(process.env) + "cd092b04697c"'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello world
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
