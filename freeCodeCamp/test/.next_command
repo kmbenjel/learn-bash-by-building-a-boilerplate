@@ -15,3 +15,57 @@ history -a
 echo hello terminal
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git clone https://github.com/freeCodeCamp/rdb-alpha
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd rdb-alpha/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git rm --cache rdb-alpha/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git rm --cache rdb-alpha
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git rm -Rf --cache rdb-alpha
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -Rf rdb-alpha/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
