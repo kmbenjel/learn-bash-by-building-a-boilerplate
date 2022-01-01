@@ -171,3 +171,6 @@ history -a
 cd src/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
