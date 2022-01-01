@@ -362,3 +362,21 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv lato.font lato.tff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.font lato.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.tff lato.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.ttf lato.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.font lato.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
